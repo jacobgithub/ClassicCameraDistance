@@ -1,7 +1,7 @@
-## Interface: 20504
+## Interface: 11403
 ## Title: ClassicCameraDistance
 ## Author: Jacob C. Ting
-## Version: 20504
+## Version: 11403
 ## Notes: Sets the camera distance to maximum.
 ## X-Category: Interface Enhancements
 ## Notes: Sets the cameraDistanceMaxZoomFactor CVar to 3.34
